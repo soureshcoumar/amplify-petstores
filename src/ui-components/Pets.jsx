@@ -35,7 +35,7 @@ export default function Pets(props) {
       justifyContent="stretch"
       items={items || []}
       {...rest}
-      {...getOverrideProps(overrides, "Pet")}
+      {...getOverrideProps(overrides, "Pets")}
     >
       {(item, index) => (
         <PetProfile
