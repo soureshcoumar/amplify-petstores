@@ -31,6 +31,6 @@ export { default as ProductCard } from "./ProductCard";
 export { default as Ampligram } from "./Ampligram";
 export { default as HeroLayout1 } from "./HeroLayout1";
 export { default as MyIcon } from "./MyIcon";
-export { default as NavBar } from "./NavBar";
+export { default as PetNavBar } from "./PetNavBar";
 export { default as Features2x3 } from "./Features2x3";
 export { default as studioTheme } from "./studioTheme";
